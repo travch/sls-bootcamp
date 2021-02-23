@@ -1,0 +1,20 @@
+{
+  "name": "linting",
+  "version": "1.0.0",
+  "description": "what I need to lint locally",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "eslint": "^7.20.0"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travch/sls-bootcamp.git"
+  },
+  "keywords": [],
+  "author": "Travis Christ",
+  "license": "ISC"
+}
